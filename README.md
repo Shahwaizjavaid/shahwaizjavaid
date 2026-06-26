@@ -29,20 +29,22 @@ I'm a passionate **Frontend Developer** with 3+ years of experience building mod
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Activity & Contributions
 
-Here you can see my development activity and repository statistics. **Note:** These metrics include contributions to private repositories as well!
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahwaizjavaid&show_icons=true&theme=tokyonight&count_private=true" alt="Shahwaiz's GitHub stats" height="192" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahwaizjavaid&layout=compact&theme=tokyonight&count_private=true" alt="Shahwaiz's top languages" height="192" />
-</div>
-
-<br />
+Here you can see my development activity. **Note:** These metrics include contributions to private repositories!
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahwaizjavaid&theme=tokyonight" alt="Shahwaiz's streak stats" />
 </div>
+
+---
+
+### 💡 Coding Philosophy & Goals
+> **"Writing clean code is not just a skill, it's an art of organizing complexity."**
+
+- ⚡ **Performance First:** Building web apps with fast initial load times and optimized bundles.
+- 🎨 **Visual Perfection:** Crafting custom micro-animations that feel natural and premium.
+- ⚙️ **Modern Standards:** Keeping code clean, type-safe, and highly modular.
 
 ---
 
