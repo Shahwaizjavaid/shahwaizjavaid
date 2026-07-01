@@ -1,6 +1,6 @@
 # Hi there, I'm Shahwaiz Javaid! 👋
 
-I'm a passionate **Frontend Developer** with 3+ years of experience building modern, high-performance, and visually stunning web applications. I focus on creating seamless digital experiences that combine pixel-perfect styling with clean, maintainable component architectures.
+I'm a passionate **Frontend Developer** with 2+ years of experience building modern, high-performance, and visually stunning web applications. I focus on creating seamless digital experiences that combine pixel-perfect styling with clean, maintainable component architectures.
 
 - 🚀 Currently focused on advanced **Next.js App Router** architectures & **Framer Motion** micro-interactions.
 - 🎨 Passionate about responsive UI/UX, page speed optimization, and search engine visibility.
