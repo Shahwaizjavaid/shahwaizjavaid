@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Shahwaiz Javaid.
+## Hi there! 👋 I'm Shahwaiz Javaid.
 
 I'm a Frontend Developer dedicated to creating responsive, high-performance, and visually engaging user interfaces. I specialize in translating design layouts into modular, pixel-perfect React & Next.js applications, with a strong focus on clean code and fluid usability.
 
