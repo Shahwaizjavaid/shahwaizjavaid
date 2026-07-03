@@ -15,10 +15,10 @@ I'm a Frontend Developer dedicated to creating responsive, high-performance, and
 
 #### 📁 Selected Projects & Client Work
 
-* 🎙️ **[GoVoice.ai](https://govoice.ai/)** – An AI voice agent platform designed to automate outbound and inbound calls for businesses.
-* ✍️ **[AutoBlogging Pro](https://www.autoblogging.pro/)** – An automated article writing and publishing platform that generates SEO blog content.
+* 🏠 **[Realty Directions](https://www.realtydirections.com)** – A premium real estate portal and property search platform for buyers, sellers, and agents.
 * 🎬 **[Videohomes](https://www.videohomes.com/)** – A video-hosting marketplace connecting real estate agents with professional videographers.
 * 🏠 **[Las Hawaii Mansions](https://las-hawaii-mansions.vercel.app/)** – A luxury vacation rental platform showcasing themed mansions in Las Vegas and Orlando.
+* 🛍️ **[WeaveCo](https://weaveco.vercel.app/)** – An elegant e-commerce fashion storefront featuring curated clothing catalogs and shopping bag features.
 
 ---
 
